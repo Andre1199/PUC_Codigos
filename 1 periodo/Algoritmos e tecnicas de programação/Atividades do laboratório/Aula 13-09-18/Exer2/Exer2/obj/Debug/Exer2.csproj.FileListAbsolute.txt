@@ -1,0 +1,6 @@
+c:\users\1137237\documents\visual studio 2015\Projects\Exer2\Exer2\bin\Debug\Exer2.exe.config
+c:\users\1137237\documents\visual studio 2015\Projects\Exer2\Exer2\bin\Debug\Exer2.exe
+c:\users\1137237\documents\visual studio 2015\Projects\Exer2\Exer2\bin\Debug\Exer2.pdb
+c:\users\1137237\documents\visual studio 2015\Projects\Exer2\Exer2\obj\Debug\Exer2.exe
+c:\users\1137237\documents\visual studio 2015\Projects\Exer2\Exer2\obj\Debug\Exer2.pdb
+C:\Users\1137237\Documents\Visual Studio 2015\Projects\Exer2\Exer2\obj\Debug\Exer2.csprojResolveAssemblyReference.cache

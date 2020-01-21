@@ -1,0 +1,7 @@
+C:\Users\carrefour\source\repos\Exercicio 2\Exercicio 2\bin\Debug\Exercicio 2.exe.config
+C:\Users\carrefour\source\repos\Exercicio 2\Exercicio 2\bin\Debug\Exercicio 2.exe
+C:\Users\carrefour\source\repos\Exercicio 2\Exercicio 2\bin\Debug\Exercicio 2.pdb
+C:\Users\carrefour\source\repos\Exercicio 2\Exercicio 2\obj\Debug\Exercicio 2.csprojAssemblyReference.cache
+C:\Users\carrefour\source\repos\Exercicio 2\Exercicio 2\obj\Debug\Exercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\carrefour\source\repos\Exercicio 2\Exercicio 2\obj\Debug\Exercicio 2.exe
+C:\Users\carrefour\source\repos\Exercicio 2\Exercicio 2\obj\Debug\Exercicio 2.pdb

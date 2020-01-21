@@ -1,0 +1,7 @@
+C:\Users\carrefour\source\repos\exerc4,aula3\exerc4,aula3\bin\Debug\exerc4,aula3.exe.config
+C:\Users\carrefour\source\repos\exerc4,aula3\exerc4,aula3\bin\Debug\exerc4,aula3.exe
+C:\Users\carrefour\source\repos\exerc4,aula3\exerc4,aula3\bin\Debug\exerc4,aula3.pdb
+C:\Users\carrefour\source\repos\exerc4,aula3\exerc4,aula3\obj\Debug\exerc4,aula3.csprojAssemblyReference.cache
+C:\Users\carrefour\source\repos\exerc4,aula3\exerc4,aula3\obj\Debug\exerc4,aula3.csproj.CoreCompileInputs.cache
+C:\Users\carrefour\source\repos\exerc4,aula3\exerc4,aula3\obj\Debug\exerc4,aula3.exe
+C:\Users\carrefour\source\repos\exerc4,aula3\exerc4,aula3\obj\Debug\exerc4,aula3.pdb

@@ -1,0 +1,26 @@
+cobrança de passagem
+
+Passagens
+	pagas com um cartão de passageiro recarregavel e instranferivel
+
+Passageiro
+	dados de indentificação armazenados
+	extrato das ultimas viagens
+
+Tarifas
+	- regular:valor inteiro
+	
+	- meia: metade do valor
+			para estudantes
+			
+	- gratuita:
+			para funcionarios do sistema
+			
+	- integraçao: gratuita
+			para quando a ultima viagem foi feita em até 90mns
+
+Cartoes
+	- pessoais: carregados por uma pessoa fisica
+	- profissional: carregados por uma empresa
+
+	

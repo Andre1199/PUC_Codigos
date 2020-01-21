@@ -1,0 +1,7 @@
+C:\Users\carrefour\source\repos\Dadospessoais\Dadospessoais\bin\Debug\Dadospessoais.exe.config
+C:\Users\carrefour\source\repos\Dadospessoais\Dadospessoais\bin\Debug\Dadospessoais.exe
+C:\Users\carrefour\source\repos\Dadospessoais\Dadospessoais\bin\Debug\Dadospessoais.pdb
+C:\Users\carrefour\source\repos\Dadospessoais\Dadospessoais\obj\Debug\Dadospessoais.csprojAssemblyReference.cache
+C:\Users\carrefour\source\repos\Dadospessoais\Dadospessoais\obj\Debug\Dadospessoais.csproj.CoreCompileInputs.cache
+C:\Users\carrefour\source\repos\Dadospessoais\Dadospessoais\obj\Debug\Dadospessoais.exe
+C:\Users\carrefour\source\repos\Dadospessoais\Dadospessoais\obj\Debug\Dadospessoais.pdb

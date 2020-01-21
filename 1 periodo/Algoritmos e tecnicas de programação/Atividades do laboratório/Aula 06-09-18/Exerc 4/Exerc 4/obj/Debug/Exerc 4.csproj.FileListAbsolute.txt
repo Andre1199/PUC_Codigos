@@ -1,0 +1,5 @@
+c:\users\1137237\documents\visual studio 2015\Projects\Exerc 4\Exerc 4\bin\Debug\Exerc 4.exe.config
+c:\users\1137237\documents\visual studio 2015\Projects\Exerc 4\Exerc 4\bin\Debug\Exerc 4.exe
+c:\users\1137237\documents\visual studio 2015\Projects\Exerc 4\Exerc 4\bin\Debug\Exerc 4.pdb
+c:\users\1137237\documents\visual studio 2015\Projects\Exerc 4\Exerc 4\obj\Debug\Exerc 4.exe
+c:\users\1137237\documents\visual studio 2015\Projects\Exerc 4\Exerc 4\obj\Debug\Exerc 4.pdb
